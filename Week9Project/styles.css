@@ -13,6 +13,7 @@ main {background-color: #14CCCC;
 header {
     background: url('images/logo.png') no-repeat right;
     text-align: center;
+	color: black;
     padding: 20px;
 }
 
@@ -75,4 +76,5 @@ footer {
     border-radius: 10px;
     box-shadow: 20px 20px 10px grey;
 }
+
 
